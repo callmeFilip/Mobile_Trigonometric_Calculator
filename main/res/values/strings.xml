@@ -1,8 +1,7 @@
 <resources>
-    <string name="app_name">MathStuff</string>
+    <string name="app_name">Trigonometric Calculator</string>
 
-    <string name="lbl_title1">Trigonometric</string>
-    <string name="lbl_title2">Calculator</string>
+    <string name="lbl_title">Trigonometric Calculator</string>
 
     <string name= "lbl_sin">Sin</string>
     <string name= "lbl_cos">Cos</string>

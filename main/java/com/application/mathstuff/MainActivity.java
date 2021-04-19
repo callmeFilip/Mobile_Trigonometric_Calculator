@@ -1,4 +1,4 @@
-package com.example.mathstuff;
+package com.application.mathstuff;
 
 import androidx.appcompat.app.AppCompatActivity;
 

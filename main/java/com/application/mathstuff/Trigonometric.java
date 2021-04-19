@@ -1,4 +1,4 @@
-package com.example.mathstuff;
+package com.application.mathstuff;
 
 public class Trigonometric {
         public String m_numerator;
